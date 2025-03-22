@@ -24,4 +24,4 @@
 
 ### 新闻
 
-* 科技圈🎗在花频道📮 @zaihuanews  @zaihuapd, @TestFlightCN
+* 科技圈🎗在花频道📮：@zaihuanews  @zaihuapd, @TestFlightCN
