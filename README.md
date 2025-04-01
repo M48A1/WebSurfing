@@ -27,3 +27,4 @@
 
 # VPS
 * https://digvps.com
+* https://vpsls.com
