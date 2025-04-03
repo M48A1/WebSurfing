@@ -28,3 +28,4 @@
 # VPS
 * https://digvps.com
 * https://vpsls.com
+* https://github.com/mack-a/v2ray-agent?tab=readme-ov-file
