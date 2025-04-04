@@ -26,6 +26,25 @@
 * https://annas-archive.org 安娜档案
 
 # VPS
+## Guidance 
 * https://digvps.com
 * https://vpsls.com
 * https://github.com/mack-a/v2ray-agent?tab=readme-ov-file
+
+
+## TP test
+
+* 常用
+* bash <(curl -L -s check.unlock.media)
+
+* 原生检测脚本
+* bash <(curl -sL Media.Check.Place)
+
+* 准确度最高
+* bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/check.sh)
+
+* IP质量体检脚本
+* bash <(curl -sL IP.Check.Place)
+
+* 一键修改解锁DNS
+* wget https://raw.githubusercontent.com/Jimmyzxk/DNS-Alice-Unlock/refs/heads/main/dns-unlock.sh && bash dns-unlock.sh
