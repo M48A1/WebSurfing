@@ -22,7 +22,7 @@
 * https://digvps.com
 * https://vpsls.com
 * https://github.com/mack-a/v2ray-agent?tab=readme-ov-file
-## TP test
+## Checking
 * 常用
 * bash <(curl -L -s check.unlock.media)
 * 原生检测脚本
