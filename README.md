@@ -10,6 +10,7 @@
 ## 新闻
 * 科技圈🎗在花频道📮：@zaihuanews  @zaihuapd, @TestFlightCN
 * Yummy 😋：@GodlyNews1
+* AM技术  : https://t.me/AM_CLUBS
 
 
 # Website
