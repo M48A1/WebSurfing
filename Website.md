@@ -13,3 +13,7 @@
 
 ## Health
 * https://www.msdmanuals.cn  默沙东诊疗手册
+
+
+## Tool
+* https://zns.lehu.in DNS
