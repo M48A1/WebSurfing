@@ -15,5 +15,7 @@
 * https://www.msdmanuals.cn  默沙东诊疗手册
 
 
+## Dictionary
+* https://www.merriam-webster.com 英语字典
 ## Tool
 * https://zns.lehu.in DNS
