@@ -10,14 +10,22 @@
 ## Checking
 * 常用
 * bash <(curl -L -s check.unlock.media)
+
 * 原生检测脚本
 * bash <(curl -sL Media.Check.Place)
+
 * 准确度最高
 * bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/check.sh)
+
 * IP质量体检脚本
 * bash <(curl -sL IP.Check.Place)
+
 * 一键修改解锁DNS
 * wget https://raw.githubusercontent.com/Jimmyzxk/DNS-Alice-Unlock/refs/heads/main/dns-unlock.sh && bash dns-unlock.sh
+
 * nodequality.com 
 * bash <(curl -sL https://run.NodeQuality.com)
+
+* nodeseek 轻磅发布 
+* bash <(curl -sL https://sh.nodeseek.com)      
 
