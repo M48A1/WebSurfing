@@ -17,5 +17,8 @@
 
 ## Dictionary
 * https://www.merriam-webster.com 英语字典
+* https://freemdict.com
+* https://www.vocabulary.com
+  
 ## Tool
 * https://zns.lehu.in DNS
