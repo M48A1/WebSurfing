@@ -18,3 +18,5 @@
 * https://greasyfork.org/en/scripts/459848-v2ex-polish-体验更现代化的-v2ex
 * 单手模式
 * https://greasyfork.org/zh-CN/scripts/453300-missav-去广告-影院模式-单手播放器
+* V2EX Next V2Next
+* https://greasyfork.org/zh-CN/scripts/458024-v2ex-next-v2next
