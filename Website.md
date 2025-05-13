@@ -24,3 +24,4 @@
   
 ## Tool
 * https://zns.lehu.in DNS
+* https://v.recipes DNS
