@@ -6,6 +6,9 @@
 * https://vpsls.com
 * https://github.com/mack-a/v2ray-agent?tab=readme-ov-file
 * https://vps-monitor.czl.net
+
+## client
+* https://github.com/hiddify/hiddify-manager/wiki
   
 ## Checking
 * 常用
