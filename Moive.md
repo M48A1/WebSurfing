@@ -1,1 +1,2 @@
-https://www.yinfans.me/
+* https://www.yinfans.me/
+* https://nyaa.si
