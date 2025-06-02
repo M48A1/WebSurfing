@@ -15,4 +15,5 @@
 * Yummy 😋：@GodlyNews1
 * AM技术  : https://t.me/AM_CLUBS
 
-
+## client
+* https://github.com/telegramdesktop/tdesktop?tab=readme-ov-file
