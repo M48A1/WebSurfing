@@ -23,8 +23,7 @@
 * IP质量体检脚本
 * bash <(curl -sL IP.Check.Place)
 
-* 一键修改解锁DNS
-* wget https://raw.githubusercontent.com/Jimmyzxk/DNS-Alice-Unlock/refs/heads/main/dns-unlock.sh && bash dns-unlock.sh
+
 
 * nodequality.com 
 * bash <(curl -sL https://run.NodeQuality.com)
