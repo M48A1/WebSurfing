@@ -11,17 +11,7 @@
 * https://github.com/hiddify/hiddify-manager/wiki
   
 ## Checking
-* 常用
-* bash <(curl -L -s check.unlock.media)
 
-* 原生检测脚本
-* bash <(curl -sL Media.Check.Place)
-
-* 准确度最高
-* bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/check.sh)
-
-* IP质量体检脚本
-* bash <(curl -sL IP.Check.Place)
 
 
 
